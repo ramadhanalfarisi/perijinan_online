@@ -1,0 +1,20 @@
+{
+  "name": "perijinan_online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "http": "0.0.0",
+    "multer": "^1.4.1",
+    "pg": "^7.8.0"
+  }
+}
